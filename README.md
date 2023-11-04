@@ -2,6 +2,7 @@
 by Vipul Jadhav
 
 # [Project 1: PDF Summarizer powered by OpenAI LLM](https://github.com/VipulJadhav26/PDF-Summarizer-Q-A)
+# Overview
 This is an app built using Streamlit web application that allows users to interact with a chatbot powered by the OpenAI LLM (Language Model) model.
 
 1. It imports necessary Python libraries and modules, including Streamlit, dotenv, PyPDF2, LangChain, and OpenAI, to create the web application and perform various tasks.
