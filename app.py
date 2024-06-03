@@ -24,7 +24,7 @@ with st.sidebar:
  
     ''')
     add_vertical_space(26)
-    st.write('Made with ❤️ by Vipul')
+    st.write('Made by Vipul')
 
 
 def main():
